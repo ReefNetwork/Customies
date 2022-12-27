@@ -1,0 +1,13 @@
+{
+  "name": "customies_devs/customies",
+  "description": "description",
+  "license": "GNU",
+  "authors": [
+    {
+      "name": "CustomiesDevs",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
